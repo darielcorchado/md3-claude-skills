@@ -18,4 +18,3 @@ A curated library of Claude AI skills for **MD3 Digital Solutions Inc**.
 
 - **Agency**: MD3 Digital Solutions Inc
 - **Email**: darielcorchado@gmail.com
-- **Phone**: 786-757-4345
